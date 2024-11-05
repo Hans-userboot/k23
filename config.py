@@ -13,13 +13,13 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 API_ID = int(os.environ.get("API_ID", "11662467"))
 API_HASH = os.environ.get("API_HASH", "325e13dfb76973f4bca9bdae2678bbbe")
 
-CHANNEL_DB = int(os.environ.get("CHANNEL_DB", "-1001638540412"))
-MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://client1:client2@cluster0.wc4xy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+CHANNEL_DB = int(os.environ.get("CHANNEL_DB", "-1001916790133"))
+MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://client7:client8@cluster0.48nnx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
 RESTRICT = strtobool(os.environ.get("RESTRICT", "True"))
 
-FORCE_SUB_1 = int(os.environ.get("FORCE_SUB_1", "-1001889729144"))
-FORCE_SUB_2 = int(os.environ.get("FORCE_SUB_2", "-100960482626"))
+FORCE_SUB_1 = int(os.environ.get("FORCE_SUB_1", "-1001842125126"))
+FORCE_SUB_2 = int(os.environ.get("FORCE_SUB_2", "-1001566709432"))
 FORCE_SUB_3 = int(os.environ.get("FORCE_SUB_3", "0"))
 FORCE_SUB_4 = int(os.environ.get("FORCE_SUB_4", "0"))
 
